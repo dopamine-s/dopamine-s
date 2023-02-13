@@ -1,10 +1,20 @@
-## Hello, I'm Fedor Klochkov
+## Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fedor Klochkov
 
 ### I am a Frontend Web Developer and here's my profile.
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=62)
 
-In my work, even doing familiar things, I try to find new approaches, apply new knowledge, improve my code.
+### In my work, even doing familiar things, I try to find new approaches, apply new knowledge, improve my code.
+
+<p align="left" style="margin-bottom: 20px; margin-top: 50px">
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
 ### 🛠 My tech stack:
 
@@ -14,12 +24,18 @@ In my work, even doing familiar things, I try to find new approaches, apply new 
 - SCSS (SASS);
 - CSS3;
 - HTML5;
+- Figma.
+
+<p align="left" style="margin-bottom: 20px; margin-top: 50px">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+</p>
 
 ### 👨🏻‍🎓 I am currently studying:
 
 - TypeScript;
-- Next.js.
-- Jest;
+- Next.js;
+- Jest.
 
 <div style="margin-bottom: 50px"></div>
 
@@ -36,6 +52,4 @@ In my work, even doing familiar things, I try to find new approaches, apply new 
 
 <div style="margin-bottom: 50px"></div>
 
-<div style="margin-bottom: 50px"><p align="center"><img height="50" src="Images/html5-icon.svg"><img height="50" src="Images/css3-icon.svg"><img height="50" src="Images/sass-icon.svg">&nbsp;<img height="200" src="Images/react-icon.svg"><img height="50" src="Images/js-icon.svg">&nbsp;<img height="50" src="Images/ts-icon.svg">&nbsp;<img height="50" src="Images/redux-icon.svg"></p></div>
-
-<p align="center"><a href="https://www.linkedin.com/in/fedor-dopamine/"><img height="30" src="Images/linkedin.svg"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/fedor_dopamine/"><img height="30" src="Images/instagram.svg"></a>&nbsp;<a href="https://www.codewars.com/users/dopamine-s/"><img height="30" src="https://www.codewars.com/users/dopamine-s/badges/micro"></a></p>
+<p align="center"><a href="mailto:motor55005@gmail.com"><img height="30" src="Images/email-icon.svg"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/fedor-dopamine/"><img height="30" src="Images/linkedin.svg"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/fedor_dopamine/"><img height="30" src="Images/instagram.svg"></a>&nbsp;<a href="https://www.codewars.com/users/dopamine-s/"><img height="30" src="https://www.codewars.com/users/dopamine-s/badges/micro"></a></p>
