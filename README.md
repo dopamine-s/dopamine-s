@@ -10,7 +10,7 @@ In my work, even doing familiar things, I try to find new approaches, apply new 
 
 - HTML5;
 - CSS3;
-- SCSS (SASS)
+- SCSS (SASS);
 - JavaScript (ES6);
 - React;
 - Redux / Redux Toolkit;
@@ -25,14 +25,14 @@ In my work, even doing familiar things, I try to find new approaches, apply new 
 
 ### 💻 Some of my projects:
 
-| Project name                                                               | Deploy                                                               | Description                                                                                                                           | Technologies                                                       |
-| -------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [React Todo App](https://github.com/dopamine-s/to-do-with-ts-training-app) | [Try right now](https://to-do-with-ts-training-app.vercel.app/)      | Simple ToDo app that allows you to create, edit, mark as completed, and delete todos.                                                 | TypeScript, React, Redux, Redux Toolkit, CSS modules, SCSS (SASS). |
-| [F1 seasons](https://github.com/dopamine-s/f1-seasons)                     | [Try right now](http://f1-seasons-psi.vercel.app/)                   | An application with the results of F1 races, allowing you to view the details of each round and add drivers to the list of favorites. | JavaScript, React, React Router, React-hooks, CSS modules.         |
-| [What To Watch](https://github.com/dopamine-s/845199-what-to-watch-10)     | [Try right now](https://845199-what-to-watch-10.vercel.app/)         | Online cinema app that allows you to log in, rate movies, add reviews, and edit your personal watch list.                             | TypeScript, React, React Router, Redux, Redux Toolkit.             |
-| [Cinemaddict](https://github.com/dopamine-s/845199-cinemaddict-17)         | [Try right now](https://dopamine-s.github.io/845199-cinemaddict-17/) | Big movie fans info service app.                                                                                                      | JavaScript, Day.js, Babel, Webpack.                                |
-| [Kekstagram](https://github.com/dopamine-s/845199-kekstagram-25)           | [Try right now](https://dopamine-s.github.io/845199-kekstagram-25/)  | Simple Instagram-Like App that allows you to view photos, upload your photos and edit them with filters.                              | JavaScript.                                                        |
-| [Pink](https://github.com/dopamine-s/845199-pink-23)                       | [Try right now](https://dopamine-s.github.io/845199-pink-23/)        | Photo editing and sharing mobile app website (with a focus on BEM, adaptive design, and SCSS styling).                                | HTML, SCSS (SASS), Gulp.                                           |
+| Project name                                                               | Deployment                                                        | Description                                                                                                                           | Technologies                                                       |
+| -------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [React Todo App](https://github.com/dopamine-s/to-do-with-ts-training-app) | [Try it now](https://to-do-with-ts-training-app.vercel.app/)      | Simple ToDo app that allows you to create, edit, mark as completed, and delete todos.                                                 | TypeScript, React, Redux, Redux Toolkit, CSS modules, SCSS (SASS). |
+| [F1 seasons](https://github.com/dopamine-s/f1-seasons)                     | [Try it now](http://f1-seasons-psi.vercel.app/)                   | An application with the results of F1 races, allowing you to view the details of each round and add drivers to the list of favorites. | JavaScript, React, React Router, React-hooks, CSS modules.         |
+| [What To Watch](https://github.com/dopamine-s/845199-what-to-watch-10)     | [Try it now](https://845199-what-to-watch-10.vercel.app/)         | Online cinema app that allows you to log in, rate movies, add reviews, and edit your personal watch list.                             | TypeScript, React, React Router, Redux, Redux Toolkit.             |
+| [Cinemaddict](https://github.com/dopamine-s/845199-cinemaddict-17)         | [Try it now](https://dopamine-s.github.io/845199-cinemaddict-17/) | Big movie fans info service app.                                                                                                      | JavaScript, Day.js, Babel, Webpack.                                |
+| [Kekstagram](https://github.com/dopamine-s/845199-kekstagram-25)           | [Try it now](https://dopamine-s.github.io/845199-kekstagram-25/)  | Simple Instagram-Like App that allows you to view photos, upload your photos and edit them with filters.                              | JavaScript.                                                        |
+| [Pink](https://github.com/dopamine-s/845199-pink-23)                       | [Try it now](https://dopamine-s.github.io/845199-pink-23/)        | Photo editing and sharing mobile app website (with a focus on BEM, adaptive design, and SCSS styling).                                | HTML, SCSS (SASS), Gulp.                                           |
 
 <div style="margin-bottom: 50px"></div>
 
