@@ -8,12 +8,12 @@ In my work, even doing familiar things, I try to find new approaches, apply new 
 
 ### 🛠 My tech stack:
 
-- HTML5;
-- CSS3;
-- SCSS (SASS);
-- JavaScript (ES6);
 - React;
 - Redux / Redux Toolkit;
+- JavaScript (ES6);
+- SCSS (SASS);
+- CSS3;
+- HTML5;
 
 ### 👨🏻‍🎓 I am currently studying:
 
