@@ -37,8 +37,6 @@
 - Next.js;
 - Jest.
 
-<div style="margin-bottom: 50px"></div>
-
 ### 💻 Some of my projects:
 
 | Project name                                                               | Deployment                                                        | Description                                                                                                                           | Technologies                                                       |
@@ -50,6 +48,12 @@
 | [Kekstagram](https://github.com/dopamine-s/845199-kekstagram-25)           | [Try it now](https://dopamine-s.github.io/845199-kekstagram-25/)  | Simple Instagram-Like App that allows you to view photos, upload your photos and edit them with filters.                              | JavaScript.                                                        |
 | [Pink](https://github.com/dopamine-s/845199-pink-23)                       | [Try it now](https://dopamine-s.github.io/845199-pink-23/)        | Photo editing and sharing mobile app website (with a focus on BEM, adaptive design, and SCSS styling).                                | HTML, SCSS (SASS), Gulp.                                           |
 
-<div style="margin-bottom: 50px"></div>
+### Socials:
 
-<p align="center"><a href="mailto:motor55005@gmail.com"><img height="30" src="Images/email-icon.svg"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/fedor-dopamine/"><img height="30" src="Images/linkedin.svg"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/fedor_dopamine/"><img height="30" src="Images/instagram.svg"></a>&nbsp;<a href="https://www.codewars.com/users/dopamine-s/"><img height="30" src="https://www.codewars.com/users/dopamine-s/badges/micro"></a></p>
+<p align="left" style="margin-top: 50px; margin-bottom: 50px"><a href="mailto:motor55005@gmail.com"><img height="30" src="Images/email-icon.svg"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/fedor-dopamine/"><img height="30" src="Images/linkedin.svg"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/fedor_dopamine/"><img height="30" src="Images/instagram.svg"></a>&nbsp;<a href="https://www.codewars.com/users/dopamine-s/"><img height="30" src="https://www.codewars.com/users/dopamine-s/badges/micro"></a></p>
+
+<b>My GitHub Stats:</b>
+
+<a href="http://www.github.com/dopamine-s"><img src="https://github-readme-stats.vercel.app/api?username=dopamine-s&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dopamine-s's GitHub stats" /></a>
+
+<a href="http://www.github.com/dopamine-s"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dopamine-s&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
